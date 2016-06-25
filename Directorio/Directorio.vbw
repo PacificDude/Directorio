@@ -1,0 +1,5 @@
+frmContactos = 110, 110, 455, 431, , 11, 12, 468, 375, C
+frmNuevoContacto = 176, 176, 731, 620, , 22, 22, 577, 466, C
+mdlFunciones = 88, 88, 643, 532, 
+frmNuevaCategoria = 44, 44, 599, 488, , 22, 22, 577, 466, C
+frmOrdenarContacto = 44, 44, 365, 388, Z, 22, 22, 343, 366, C
